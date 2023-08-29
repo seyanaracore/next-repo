@@ -1,1 +1,1 @@
-export const requestRevalidate = 180
+export const requestRevalidate: number = 600
