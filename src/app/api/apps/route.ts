@@ -12,3 +12,4 @@ export async function GET(req: NextRequest) {
     new NextResponse('Internal Server', {status: 500})
   }
 }
+export const dynamic = "force-dynamic";
