@@ -11,7 +11,7 @@ class Youtube extends RepositoryApp {
 			versionDescription: 'Youtube++',
 			downloadURL,
 			localizedDescription: 'Youtube++',
-			iconURL: 'https://upload.wikimedia.org/wikipedia/commons/7/72/YouTube_social_white_square_%282017%29.svg',
+			iconURL: 'https://img.freepik.com/premium-vector/red-youtube-logo-social-media-logo_197792-1803.jpg',
 			tintColor: '018084',
 			isLanZouCloud: 0,
 			size,
